@@ -1,8 +1,8 @@
 ## [Daniel](https://armado.io/daniel)
 
-**Threat Emulation & Detection Engineer**
+### Threat Emulation / Detection Engineering
 
-I like building tools that help engineers do their jobs better. Self-taught, with a background in tailored access ops, threat emulation, assumed breach, purple teaming, AppSec, and security analyst work.
+I build tools that help engineers do their jobs better. U.S. Veteran, Self-taught, with a background in tailored access ops, threat emulation, assumed breach, purple teaming, AppSec, and security analyst work.
 </br>
 </br>
 
