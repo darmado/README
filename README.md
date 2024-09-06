@@ -13,5 +13,6 @@ I build tools that help engineers do their jobs better. U.S. Veteran, Self-taugh
   
 </br>
 
-**Let's Chat Here**
-- **[LinkedIn](https://www.linkedin.com/in/darmado)**  &nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;  **[X](https://x.com/darmad0)**
+**How to Connect**
+
+Got questions?  Hit me up on **[LinkedIn](https://www.linkedin.com/in/darmado)** or   **[X](https://x.com/darmad0)**
