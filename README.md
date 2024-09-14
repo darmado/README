@@ -6,7 +6,7 @@ Building tools that help engineers do their jobs better. Self-taught, 15 years i
 </br>
 </br>
 
-**MITRE ATT&CK Contributions**
+**MITRE ATT&CK Contributor**
 
 - [SILENTTRINITY](https://attack.mitre.org/software/S0692): An Open source post-exploitation C2 framework.
 - [Brute Ratel](https://attack.mitre.org/software/S1063): A commercial red-teaming and adversarial attack simulation tool.
