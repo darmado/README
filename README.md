@@ -2,7 +2,7 @@
 
 ### 🇺🇸 Adversary Emulation / Detection Engineering
 
-Building tools that help engineers do their jobs better. Self-taught, with a background in tailored access ops, threat emulation, assumed breach, purple teaming, AppSec, and security analyst work.
+Building tools that help engineers do their jobs better. Self-taught, 15 years in the field with a background in tailored access ops, adversary emulation, assumed breach, purple teaming, AppSec, and security analyst work.
 </br>
 </br>
 
