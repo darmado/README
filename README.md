@@ -1,18 +1,18 @@
-## [Daniel](https://armado.io/daniel)
+## [Daniel](https://x.com/darmad0)
 
 ### 🇺🇸 Adversary Emulation / Detection Engineering
 
 Building tools that help engineers do their jobs better. Self-taught, 15 years in the field with a background in tailored access ops, adversary emulation, assumed breach, purple teaming, AppSec, and security analyst work.
-</br>
+##
 </br>
 
-**MITRE ATT&CK Contributor**
+**MITRE ATT&CK Contributions**
 
-- [SILENTTRINITY](https://attack.mitre.org/software/S0692): An Open source post-exploitation C2 framework.
-- [Brute Ratel](https://attack.mitre.org/software/S1063): A commercial red-teaming and adversarial attack simulation tool.
+- [SILENTTRINITY](https://attack.mitre.org/software/S0692) | [Brute Ratel](https://attack.mitre.org/software/S1063) 
   
 </br>
 
-**How to Connect**
 
-Got questions?  Hit me up on **[LinkedIn](https://www.linkedin.com/in/darmado)** or   **[X](https://x.com/darmad0)**
+**Socials**
+
+- [LinkedIn](https://www.linkedin.com/in/darmado)  |  [X](https://x.com/darmad0)
