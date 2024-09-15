@@ -8,11 +8,5 @@ Building tools that help engineers do their jobs better. Self-taught, 15 years i
 
 **MITRE ATT&CK Contributions**
 
-- [SILENTTRINITY](https://attack.mitre.org/software/S0692) | [Brute Ratel](https://attack.mitre.org/software/S1063) 
+[SILENTTRINITY](https://attack.mitre.org/software/S0692) | [Brute Ratel](https://attack.mitre.org/software/S1063) 
   
-</br>
-
-
-**Socials**
-
-- [LinkedIn](https://www.linkedin.com/in/darmado)  |  [X](https://x.com/darmad0)
