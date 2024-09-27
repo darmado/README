@@ -1,7 +1,8 @@
 ## 🇺🇸  [OffensiveOps | Detection Engineering](https://x.com/darmad0)
-**DR;TS**. I'm Self-taught, with 1ten years of hands-on work in TAO _(LATAM gov)_, adversary emulation, assumed breach, purple teaming, AppSec, and five years of security engineering and analyst work.
+Self-taught, with ten years of hands-on work in TAO _(LATAM gov)_, adversary emulation, assumed breach, purple teaming, AppSec, and five years of security engineering and analyst work.
 
-I like data-driven tools, frameworks, and projects that help teams solve problems with minimal effort. I lean more towards building tools that validate threat detection and response assumptions, **MTTD** and **MTTR**.
+
+I like to build flexible, modular, interoperable tools that bolt onto security tool ecosystems and are easy to maintain, deploy, and promote technical feedback loops.
 
 _Help protect innovators, the community, and startups from patent trolls.  Use the Apache 2.0 License._
 
@@ -18,5 +19,10 @@ _Help protect innovators, the community, and startups from patent trolls.  Use t
  - C2, _35 Technique Citations - [SILENTTRINITY](https://attack.mitre.org/software/S0692)_
  - C2, _35 Technique Citations - [Brute Ratel](https://attack.mitre.org/software/S1063)_
 
+## 
 
-  
+### How To Connect
+
+[![iamge](https://github.com/user-attachments/assets/3d584651-e453-470d-a656-764264c16940)](https://linkedin.com/in/darmado)
+
+
